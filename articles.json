@@ -1,0 +1,22 @@
+{ "articles": [{
+    "type": "Entertainment",
+    "photo": "http://www.ew.com/sites/default/files/styles/tout_image_612x380/public/i/2015/11/23/dec04-2015-1392-jennifer-lawrence_612x380.jpg?itok=EKOPzMTs",
+    "headline": "Jennifer Lawrence does says something wacky yet relatable!",
+    "author": "Coolguy420"
+  }, {
+    "type": "News",
+    "photo": "http://ih0.redbubble.net/image.197766992.3351/flat,800x800,075,f.u1.jpg",
+    "headline": "Bernie Takes the Lead!",
+    "author": "Doodle McCroodle"
+  }, {
+    "type": "Fashion",
+    "photo": "http://data.whicdn.com/images/17362348/high,fashion,photography-f3058c62c7d685fa73e60c83c0e2010a_h_large.jpg",
+    "headline": "What?",
+    "author": "Minni Moocher"
+  }, {
+    "type": "Books",
+    "photo": "http://spinoff.comicbookresources.com/wp-content/uploads/2015/10/NEIL-GAIMAN_510x380.jpg",
+    "headline": "He' still British",
+    "author": "Guy Guyver"
+  }]
+}
